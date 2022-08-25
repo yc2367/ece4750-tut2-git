@@ -2,3 +2,4 @@ spinach
 broccoli
 turnip
 onion
+tomato
